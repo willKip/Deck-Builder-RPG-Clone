@@ -6,7 +6,7 @@ public class Strike extends AbstractCard {
     private static final String cardName = "Strike";
 
     public Strike() {
-        super(cardName, CardType.ATTACK, Target.ENEMY, 1, 9, 0);
+        super(cardName, CardType.ATTACK, Target.ENEMY, 1, 6, 0);
     }
 
     @Override
