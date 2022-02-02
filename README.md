@@ -1,6 +1,6 @@
 #  Deck Builder RPG Clone
 
-Final project for the COMP 1406Z course delivered Winter 2021 at Carleton University.
+Final project for the COMP 1406Z course delivered Fall 2020 at Carleton University.
 
 A text-based Java clone of the popular deckbuilder video game, [Slay the Spire](https://store.steampowered.com/app/646570/Slay_the_Spire/), which aims to demonstrate object-oriented programming capabilities with a simple, but extensible demo. 
 
